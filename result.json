@@ -1,0 +1,123 @@
+[
+    {
+        "timestamp": "2024-12-02 18:33:20",
+        "result": 41,
+        "hours": 23,
+        "minutes": 2,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-02 18:34:04",
+        "result": 52,
+        "hours": 23,
+        "minutes": 4,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-02 18:34:07",
+        "result": 120.5,
+        "hours": 22,
+        "minutes": 11,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-02 18:34:10",
+        "result": 65.5,
+        "hours": 22,
+        "minutes": 1,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-02 18:43:51",
+        "result": 106.5,
+        "hours": 21,
+        "minutes": 3,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-02 18:44:20",
+        "result": 76.5,
+        "hours": 10,
+        "minutes": 3,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-02 18:45:28",
+        "result": 13.5,
+        "hours": 1,
+        "minutes": 3,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-02 19:29:00",
+        "result": 154.5,
+        "hours": 21,
+        "minutes": 21,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-03 21:54:46",
+        "result": 16.5,
+        "hours": 12,
+        "minutes": 3,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-03 21:57:28",
+        "result": 11,
+        "hours": 23,
+        "minutes": 58,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    },
+    {
+        "timestamp": "2024-12-03 22:09:32",
+        "result": 136.5,
+        "hours": 3,
+        "minutes": 57,
+        "user_info": {
+            "ip_address": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0",
+            "request_method": "POST"
+        }
+    }
+]
